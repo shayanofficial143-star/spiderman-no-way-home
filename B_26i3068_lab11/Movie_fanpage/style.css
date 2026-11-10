@@ -92,3 +92,36 @@ footer {
     background-color: #0D192B;
     color: white;
 }
+
+/* Top Picks Page Styling */
+
+main h3 {
+    color: #E62429;
+    font-size: 21px;
+    margin-top: 25px;
+}
+
+main ul {
+    display: inline-block;
+    text-align: left;
+    line-height: 2;
+    max-width: 800px;
+}
+
+/* Reviews Page Styling */
+
+main h3 {
+    color: #E62429;
+    font-size: 21px;
+    margin-top: 25px;
+}
+
+main table {
+    width: 70%;
+    margin: 20px auto;
+}
+
+main p {
+    line-height: 1.8;
+}
+
